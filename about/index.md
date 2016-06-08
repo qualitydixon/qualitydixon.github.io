@@ -11,6 +11,10 @@ Greetings! I'm Mike and I'm a software engineer with a background in physics. I 
 * HTML/CSS/Javascript
 * React
 * Webpack
+* Redux
+* Less
+* jQuery
+* Git
 * Java
 
 
