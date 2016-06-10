@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Post!"
+title:  "Simple React Boilerplate"
 date:   2016-06-05
-excerpt: "Trying out a new portfolio!"
+excerpt: "React, React Router, React Hot Loader, ESLint(standardjs), and Less. Backed by Webpack."
 project: true
 tag:
 - jekyll
@@ -12,8 +12,19 @@ comments: false
 ---
 
 
-# Heading 1
+# Simple React Boilerplate
 
-First post! Excited to share what I'm working on and what I'm learning!
+If you use React and haven't made a boilerplate, do you even exist?
+
+[DEMO](http://qualitydixon.github.io/react-kickstart/)
+
+## In this project...
+
+- React
+- React Router
+- Webpack
+- LESS
+- ESLint (standard)
+- React Hot Loader
 
 
