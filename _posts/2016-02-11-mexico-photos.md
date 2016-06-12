@@ -22,4 +22,14 @@ comments: true
 	<figcaption>Guanajuato</figcaption>
 </figure>
 
-[You can see more photos on my ello page - @dixiecup](https://ello.co/dixiecup)
+<figure>
+	<img src="https://raw.githubusercontent.com/qualitydixon/qualitydixon.github.io/master/assets/img/mexico/sma_templo.jpg">
+	<figcaption>Side view of Templo de la Tercera Orden. San Miguel de Allende, Mexico.</figcaption>
+</figure>
+
+<figure>
+	<img src="https://raw.githubusercontent.com/qualitydixon/qualitydixon.github.io/master/assets/img/mexico/oaxaca_street.jpg">
+	<figcaption>A street in Oaxaca City, Oaxaca, Mexico</figcaption>
+</figure>
+
+You can see more photos on my ello page - [@dixiecup](https://ello.co/dixiecup)
