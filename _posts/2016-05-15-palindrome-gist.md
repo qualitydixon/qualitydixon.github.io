@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "A guide to Javascript closures"
-date: 2016-02-04
+title: "How to check if a number is palindromic"
+date: 2016-05-15
 excerpt: ""
-tags: [javascript, closures, article]
+tags: [javascript, gist, article]
 comments: true
 ---
+A gist I put together that describes two methods for checking if a number is palindromic.
 
 {% gist cc9644e6b1ec96f4d0a953a15a58679c %}
