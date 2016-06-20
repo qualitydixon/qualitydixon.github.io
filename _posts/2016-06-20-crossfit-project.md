@@ -14,8 +14,6 @@ comments: false
 
 # Crossfit Clock
 
-![alt text](http://g.recordit.co/orOBcsCLYW.gif "Tabata")
-
 [LIVE DEMO](http://qualitydixon.github.io/CrossfitClock/)
 
 ## Built with...
